@@ -1,0 +1,21 @@
+{
+    "name": "dakanbe/authero",
+    "description": "Simple Authorization Library for PHP Project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dakanbe\\Authero\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dhean Kasanda",
+            "email": "dheanka73.io@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "8.1"
+    }
+}
